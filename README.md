@@ -9,7 +9,7 @@ The project is divided into two main components:
 1. **Frontend**:
    - The frontend is responsible for providing a user interface to interact with the system. It allows users to input sources for resume collection, view collected data, and access the standardized resumes.
 
-2. **Backend:
+2. **Backend**:
    - The backend handles the business logic of gathering resumes from different sources, storing the data in the PostgreSQL database, and converting the data into standardized resumes.
 
 ## Technologies Used
